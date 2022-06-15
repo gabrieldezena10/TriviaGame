@@ -49,7 +49,7 @@ class Game extends React.Component {
         }));
       }
       this.updateTime();
-      this.shuffleAnswers(questionIndex);
+      this.shuffleAnswers(questionIndex + 1);
     });
     this.setState({ classActive: undefined, visibility: 'btn-next-hidden' });
   }

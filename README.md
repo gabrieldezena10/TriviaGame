@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-O trivia é um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ desenvolvido em equipe, composto por 3 pessoas, no curso da [Trybe](https://www.betrybe.com/). Foi utilizado _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_.
+O trivia é um jogo de perguntas e respostas baseado no jogo **Trivia** _(jogo de perguntas e respostas)_ desenvolvido em equipe, no curso da [Trybe](https://www.betrybe.com/). Foi utilizado _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
